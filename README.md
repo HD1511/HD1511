@@ -2,7 +2,7 @@
   <img src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" >
 </div>
 <h3 align = "center">
-  hey there, I'm Harsh Dobariya
+  Hey there, I'm Harsh Dobariya
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
 <!-- Intro -->
