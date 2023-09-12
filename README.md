@@ -1,4 +1,3 @@
-[<img src="./typing intro.gif" alt="Hi, I amHarshil">](https://github.com/harshil-270/)
 
 <!-- Intro -->
 <!-- Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> . I am a competitive programmer and full stack web developer.  -->
