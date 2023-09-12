@@ -7,13 +7,13 @@
 <!-- Other Stats -->
 <p align="center">
 <!--   <a href="https://codeforces.com/profile/Harshil_"><img src="https://cp-logo.vercel.app/codeforces/Harshil_"/></a> -->
-  <a href="https://github.com/harshil-270/"><img src="https://komarev.com/ghpvc/?username=harshil-270" alt="Harshil's Profile Views" /></a>
-  <a href="https://github.com/harshil-270/"><img src="https://img.shields.io/github/followers/harshil-270?style=flat&color=red&label=GitHub%20Followers%20"/></a>
+  <a href="https://github.com/HD1511/"><img src="https://komarev.com/ghpvc/?username=HD1511" alt="Harsh's Profile Views" /></a>
+  <a href="https://github.com/HD1511/"><img src="https://img.shields.io/github/followers/HD1511?style=flat&color=red&label=GitHub%20Followers%20"/></a>
 </p>
 
 ## 📖 About Me
-- 🎓 I am Harshil Tagadiya, a final year CSE student at Nirma University
-- 🖥 Full-stack Web Developer
+- 🎓 I am Harsh Dobariya, a pre-final year CSE student at Nirma University
+- 🖥 Full-stack Web and Flutter Developer
 - 👨‍💻 Competitive Programmer 
  
 <!-- - Candidate Master @Codeforces [Harshil_](https://codeforces.com/profile/Harshil_) -->
