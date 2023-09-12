@@ -48,8 +48,8 @@
 ## &#x1f4c8; GitHub Stats
   
 <span width="100%" stlye="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshil-270&show_icons=true&theme=tokyonight" alt="Harshil's Github Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil-270&layout=compact&theme=tokyonight" alt="Harshil's most used languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HD1511&show_icons=true&theme=tokyonight" alt="Harsh's Github Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HD1511&layout=compact&theme=tokyonight" alt="Harsh's most used languages" height="180px" />
 </span>
 <!--   
 <!-- Other Stats -->
@@ -72,8 +72,8 @@
 </a>  -->
 
 
-[2]: https://github.com/harshil-270
-[3]: https://www.linkedin.com/in/harshil-tagadiya/
+[2]: https://github.com/HD1511
+[3]: https://www.linkedin.com/in/harsh-dobariya-718908226/
 
 
 <!-- Resources -->
@@ -85,7 +85,7 @@
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 <!--
 
-**harshil-270/harshil-270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HD511/HD1511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
