@@ -53,7 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HD1511&layout=compact&theme=tokyonight" alt="Harsh's most used languages" height="180px" />
 </span>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HD1511&theme=dark&border_radius=5&mode=weekly&card_width=500&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HD1511&theme=dark&border_radius=5&mode=weekly&card_width=500)](https://git.io/streak-stats)
 <!--   
 <!-- Other Stats -->
 
