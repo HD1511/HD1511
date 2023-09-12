@@ -53,6 +53,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HD1511&show_icons=true&theme=tokyonight" alt="Harsh's Github Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HD1511&layout=compact&theme=tokyonight" alt="Harsh's most used languages" height="180px" />
 </span>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HD1511&theme=dark)](https://git.io/streak-stats)
 <!--   
 <!-- Other Stats -->
 
