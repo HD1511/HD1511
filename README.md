@@ -50,8 +50,8 @@
 ## &#x1f4c8; GitHub Stats
   
 <span width="100%" stlye="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshil-270&show_icons=true&theme=tokyonight" alt="Harsh's Github Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil-270&layout=compact&theme=tokyonight" alt="Harsh's most used languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HD1511&show_icons=true&theme=tokyonight" alt="Harsh's Github Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HD1511&layout=compact&theme=tokyonight" alt="Harsh's most used languages" height="180px" />
 </span>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
