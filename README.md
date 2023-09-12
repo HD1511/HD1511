@@ -22,9 +22,9 @@
 <!-- links to social media icons -->
 ## 📫 How to reach me:
   
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/harshil-tagadiya/) 
-&nbsp; <a href="mailto:harshiltagadiya@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>
-&nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/harshil_tagadiya/) 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/harsh-dobariya-718908226/) 
+&nbsp; <a href="mailto:harshdob937@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>
+&nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/ll_harsh_dobariya_ll/) 
 <!-- &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discordapp.com/users/693479853822967828/) -->
 
 <!-- Graph GIF -->
