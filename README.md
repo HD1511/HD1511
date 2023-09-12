@@ -1,4 +1,10 @@
-
+<div id="header" align="center">
+  <img src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" >
+</div>
+<h3 align = "center">
+  hey there, I'm Harsh Dobariya
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h3>
 <!-- Intro -->
 <!-- Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> . I am a competitive programmer and full stack web developer.  -->
 
