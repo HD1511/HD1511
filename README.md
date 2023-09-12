@@ -17,9 +17,9 @@
 </p>
 
 ## 📖 About Me
-- 🎓 I am Harsh Dobariya, a pre-final year CSE student at Nirma University
-- 🖥 Full-stack Web and Flutter Developer
-- 👨‍💻 Competitive Programmer 
+- 🎓 I am Harsh Dobariya, a pre-final year CSE student at Nirma University.
+- 🖥 Full-stack Web and Flutter Developer.
+- 👨‍💻 Competitive Programmer from india.
  
 <!-- - Candidate Master @Codeforces [Harshil_](https://codeforces.com/profile/Harshil_) -->
 
