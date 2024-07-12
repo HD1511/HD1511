@@ -35,6 +35,8 @@
 <!-- Graph GIF -->
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
+## 🔧 Technologies & Tools
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -75,7 +77,7 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="vscode logo"  />
   <img width="12" />
 </div>
-## 🔧 Technologies & Tools
+
 <!-- ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-DAD3BE?style=for-the-badge&logo=typescript&logoColor=007acc)
