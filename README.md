@@ -26,12 +26,10 @@
 
 <!-- links to social media icons -->
 ## 📫 How to reach me:
-  
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="7%"/>](https://www.linkedin.com/in/harsh-dobariya-718908226/) 
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
-<a href="mailto:harshdob937@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" /></a>
-<img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" />
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="7%"/>](https://www.instagram.com/ll_harsh_dobariya_ll/) 
+
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="linkedin logo" />
+<a href="mailto:harshdob937@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" alt="gmail logo" /></a>
+<img src="https://skillicons.dev/icons?i=instagram" height="50" alt="instagram logo" />
 <!-- &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discordapp.com/users/693479853822967828/) -->
 
 <!-- Graph GIF -->
