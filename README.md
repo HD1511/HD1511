@@ -27,10 +27,13 @@
 <!-- links to social media icons -->
 ## 📫 How to reach me:
 
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="linkedin logo" />
-<a href="mailto:harshdob937@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" alt="gmail logo" /></a>
-<img src="https://skillicons.dev/icons?i=instagram" height="50" alt="instagram logo" />
-<!-- &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discordapp.com/users/693479853822967828/) -->
+<div align="left>
+  <a href="mailto:harshdob937@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" alt="gmail logo" /></a>
+  <img width="2px">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="linkedin logo" />
+  <img width="2px">
+  <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="instagram logo" />
+</div>
 
 <!-- Graph GIF -->
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -38,25 +41,25 @@
 ## 🔧 Technologies & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=redux" height="45" alt="redux logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="prisma logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
 </div>
   
 ## &#x1f4c8; GitHub Stats
