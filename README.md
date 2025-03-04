@@ -17,7 +17,7 @@
 </p>
 
 ## 📖 About Me
-- 🎓 I am Harsh Dobariya, a pre-final year CSE student at Nirma University.
+- 🎓 I am Harsh Dobariya, a final year CSE student at Nirma University.
 - 🖥 Full-stack Web and Flutter Developer.
 - 👨‍💻 I'm a Competitive Programmer from india.
  
